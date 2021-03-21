@@ -1,0 +1,108 @@
+
+---Downloaded files---
+The import files for: Minimal Portfolio were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://127.0.0.1/notemily
+Data file = /Users/emilythomas/Sites/notemily/wp-content/uploads/2021/01/demo-content-import-file_2021-01-07__03-12-08.xml
+Widget file = /Users/emilythomas/Sites/notemily/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-07__03-12-08.json
+Customizer file = /Users/emilythomas/Sites/notemily/wp-content/uploads/2021/01/demo-customizer-import-file_2021-01-07__03-12-08.dat
+Redux files:
+trydo_options -> /Users/emilythomas/Sites/notemily/wp-content/uploads/2021/01/demo-redux-import-file_0-2021-01-07__03-12-08.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Trydo: Recent Post - No Title - Imported
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Meta - No Title - Widget already exists
+Image - No Title - Imported
+
+Footer Widget Area 1 (Quick Link) : 
+
+Navigation Menu - Quick Link - Imported
+
+Footer Widget Area 2 (Say Hello) : 
+
+Custom HTML - Say Hello - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: trydo_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
